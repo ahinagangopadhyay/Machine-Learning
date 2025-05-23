@@ -12,9 +12,9 @@ The repository is organized into directories, each dedicated to a specific machi
 * `Naive Bayes Classifier/`
 * `Random Forests/`
 * `Support Vector Machines/`
-*  `CNN/`
-*  `RNN/`
-*  `LSTM/`
+* `CNN/`
+* `RNN/`
+* `LSTM/`
 
 ## 🛠️ Getting Started
 
@@ -28,6 +28,8 @@ The repository is organized into directories, each dedicated to a specific machi
   * `pandas`
   * `matplotlib`
   * `scikit-learn`
+  * `tensorflow`
+     
 
 
 ## 📚 Algorithms Covered
