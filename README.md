@@ -15,6 +15,8 @@ The repository is organized into directories, each dedicated to a specific machi
 * `CNN/`
 * `RNN/`
 * `LSTM/`
+* ` BERT/`
+* `Word Embeddings/`
 
 ## 🛠️ Getting Started
 
