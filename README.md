@@ -1,66 +1,59 @@
+#  Natural Language Processing Projects
 
-# Machine Learning Algorithms
+Welcome to the **Natural Language Processing** repository 
 
+---
 
 ## 📁 Repository Structure
 
-The repository is organized into directories, each dedicated to a specific machine learning algorithm:
+### 🧮 Traditional ML Models
+- `Naive Bayes Classifier`
+- `Decision Trees`
+- `Random Forests`
+- `Support Vector Machines`
+- `Expectation-Maximization`
 
-* `Conditional Random Fields/`
-* `Decision Trees/`
-* `Expectation-Maximization/`
-* `Naive Bayes Classifier/`
-* `Random Forests/`
-* `Support Vector Machines/`
-* `CNN/`
-* `RNN/`
-* `LSTM/`
-* `BERT/`
-* `Word Embeddings/`
+### 🤖 Deep Learning Models
+- `RNN`
+- `LSTM`
+- `CNN`
+- `FastText`
+- `BERT`
 
-## 🛠️ Getting Started
+### 🔠 NLP Tasks
+- `Conditional Random Fields`
+- `POS_Tagging.ipynb`
+- `POS_Tagging_and_NER.ipynb`
+- `Sentiment Analysis`
+- `Word Embeddings`
+- `Summarize.ipynb`
 
-### Prerequisites
+### 🏗️ Building Language Models
+- `LLM_BuildFromScratch.ipynb` – A hands-on transformer-based language model built from scratch.
 
-* Python 3.6 or higher
-* Jupyter Notebook
-* Essential Python libraries:
+---
 
-  * `numpy`
-  * `pandas`
-  * `matplotlib`
-  * `scikit-learn`
-  * `tensorflow`
-     
+## 🚀 Getting Started
 
+### 1. Clone the repository
 
-## 📚 Algorithms Covered
+```bash
+git clone https://github.com/ahinagangopadhyay/Natural-Language-Processing.git
+cd Natural-Language-Processing
 
-### Conditional Random Fields (CRF)
-A statistical modeling method used for structured prediction, commonly applied in NLP tasks like POS tagging and named entity recognition.
+---
 
-### Decision Trees
-A flowchart-like tree structure where internal nodes test features, branches represent outcomes, and leaf nodes give class labels or regression values.
+## 🌟 Highlights
+✅ Classic ML approaches (Naive Bayes, SVM, Decision Trees)
 
-### Expectation-Maximization (EM)
-An iterative algorithm to find maximum likelihood estimates in models with latent variables, often used in clustering and density estimation.
+✅ Deep learning for sequence tasks (RNN, LSTM, CNN)
 
-### Naive Bayes Classifier
-A probabilistic classifier based on Bayes' theorem assuming feature independence, effective in text classification and spam detection.
+✅ Embeddings using Word2Vec, FastText, and contextual BERT
 
-### Random Forests
-An ensemble method that builds multiple decision trees and outputs the majority class for classification.
+✅ POS tagging, NER using CRFs and neural nets
 
-### Support Vector Machines (SVM)
-A supervised model that finds the optimal hyperplane to separate data into classes, effective in high-dimensional spaces.
+✅ Text summarization and transformer-based language model building
 
-### Convolutional Neural Networks (CNN)
-A deep learning architecture designed to learn spatial hierarchies of features from images, widely used in computer vision.
-
-### Recurrent Neural Networks (RNN)
-A neural network designed for sequential data where connections form cycles to maintain memory of previous inputs.
-
-### Long Short-Term Memory (LSTM)
-A specialized RNN that uses gates to capture long-range dependencies and overcome vanishing gradients in sequence modeling.
+✅ Sentiment analysis and classification pipelines
 
 
