@@ -43,7 +43,8 @@ cd Natural-Language-Processing
 
 ---
 
-## 🌟 Highlights
+
+## 🚀 Highlights
 ✅ Classic ML approaches (Naive Bayes, SVM, Decision Trees)
 
 ✅ Deep learning for sequence tasks (RNN, LSTM, CNN)
