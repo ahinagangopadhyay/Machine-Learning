@@ -32,15 +32,6 @@ Welcome to the **Natural Language Processing** repository
 - `LLM_BuildFromScratch.ipynb` – A hands-on transformer-based language model built from scratch.
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/ahinagangopadhyay/Natural-Language-Processing.git
-cd Natural-Language-Processing
-
 🌟 Highlights
 ✅ Classic ML approaches (Naive Bayes, SVM, Decision Trees)
 
@@ -53,3 +44,13 @@ cd Natural-Language-Processing
 ✅ Text summarization and transformer-based language model building
 
 ✅ Sentiment analysis and classification pipelines
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ahinagangopadhyay/Natural-Language-Processing.git
+cd Natural-Language-Processing
+
