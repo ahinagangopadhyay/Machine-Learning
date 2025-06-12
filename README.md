@@ -33,6 +33,7 @@ Welcome to the **Natural Language Processing** repository
 
 ---
 🌟 Highlights
+
 ✅ Classic ML approaches (Naive Bayes, SVM, Decision Trees)
 
 ✅ Deep learning for sequence tasks (RNN, LSTM, CNN)
