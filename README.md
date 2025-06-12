@@ -1,6 +1,6 @@
-#  Natural Language Processing Projects
+# 🧠 Natural Language Processing Projects
 
-Welcome to the **Natural Language Processing** repository 
+Welcome to the **Natural Language Processing** repository
 
 ---
 
@@ -41,10 +41,7 @@ Welcome to the **Natural Language Processing** repository
 git clone https://github.com/ahinagangopadhyay/Natural-Language-Processing.git
 cd Natural-Language-Processing
 
----
-
-
-## 🚀 Highlights
+🌟 Highlights
 ✅ Classic ML approaches (Naive Bayes, SVM, Decision Trees)
 
 ✅ Deep learning for sequence tasks (RNN, LSTM, CNN)
@@ -56,5 +53,3 @@ cd Natural-Language-Processing
 ✅ Text summarization and transformer-based language model building
 
 ✅ Sentiment analysis and classification pipelines
-
-
